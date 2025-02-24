@@ -20,3 +20,7 @@ altura = int(10)
 area = float(base * altura)
 
 print(f'A área do retângulo é {area}m².')
+
+#2.3 - Utilize a linguagem Python para calcular a seguinte expressão matemática:
+x = 20 * 7 + 4**2/4
+print(x)
